@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[723],{6036:o=>{o.exports=JSON.parse('{"title":"Works","description":"5 minutes to see my works.","slug":"/category/works","permalink":"/docs/category/works","navigation":{"previous":{"title":"About me","permalink":"/docs/intro"},"next":{"title":"VAIMEE","permalink":"/docs/works/VAIMEE"}}}')}}]);
