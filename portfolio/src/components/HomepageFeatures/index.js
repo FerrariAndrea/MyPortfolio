@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '',  
-    img: '/MyPortfolio/img/github.png',
+    img: '/MyPortfolio/img/Github.png',
     url:"https://github.com/FerrariAndrea",
     description: (
      <a href="https://github.com/FerrariAndrea" target="_blank">My Github profile</a>
