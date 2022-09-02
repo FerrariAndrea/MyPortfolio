@@ -9,15 +9,15 @@ const config = {
   title: 'My Portfolio',
   tagline: 'Ing. Andrea Ferrari',
   url: 'https://github.com/FerrariAndrea',
-  baseUrl: '/',
+  baseUrl: '/MyPortfolio/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Andrea Ferrari', // Usually your GitHub org/user name.
-  projectName: 'portfolio', // Usually your repo name.
+  organizationName: 'FerrariAndrea', // Usually your GitHub org/user name.
+  projectName: 'MyPortfolio', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -63,8 +63,8 @@ const config = {
           src: 'img/Me.png',
         },
         items: [
-          {to: '/work', label: 'My Works', position: 'left'},
-          {to: '/project', label: 'My open source projects', position: 'left'},
+          {to: 'docs/category/works', label: 'My Works', position: 'left'},
+          {to: 'docs/category/projects', label: 'My open source projects', position: 'left'},
           {
             href: 'https://github.com/FerrariAndrea',
             label: 'GitHub',
