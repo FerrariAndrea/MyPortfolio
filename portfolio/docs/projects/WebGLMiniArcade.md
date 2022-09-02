@@ -12,7 +12,7 @@ WebGLMiniArcade is a university exam project, consists of a racing arcade game a
 
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/wglminiarcade1.png" />
+  <img src="/MyPortfolio/img/wglminiarcade1.png" />
 </div>
 
 <a href="https://github.com/FerrariAndrea/WebGLMiniArcade" target="_blank">Repository link</a>

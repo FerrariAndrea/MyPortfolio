@@ -13,7 +13,7 @@ VAIMEE is a SRL that works R&D in order to supply Data-driven composable applica
 <a href="https://vaimee.com/" target="_blank">https://vaimee.com/</a>
 <a href="https://vaimee.com/" target="_blank">
 <div style={{textAlign: 'center'}}>
-  <img  style={{ width:"50%"}} src="/img/Vaimee.png" />
+  <img  style={{ width:"50%"}} src="/MyPortfolio/img/Vaimee.png" />
 </div>
 </a>
 

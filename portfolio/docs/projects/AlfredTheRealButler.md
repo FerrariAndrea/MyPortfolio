@@ -14,7 +14,7 @@ The Robot is an AI Planner that will dynamically calculate a sequence of moves f
 
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/alfredRobot.jpg" />
+  <img src="/MyPortfolio/img/alfredRobot.jpg" />
 </div>
 
 <a href="https://github.com/FerrariAndrea/AlfredTheRealButler" target="_blank">Repository link</a>

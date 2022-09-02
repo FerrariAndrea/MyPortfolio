@@ -14,7 +14,7 @@ Illuminem is a Startup that provides you the most effective, updated, and compre
 
 <a href="https://illuminem.com/" target="_blank">
 <div style={{textAlign: 'center'}}>
-  <img src="/img/Illuminem.png" />
+  <img src="/MyPortfolio//img/Illuminem.png" />
 </div>
 </a>
 

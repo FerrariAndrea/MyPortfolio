@@ -10,9 +10,11 @@ sidebar_position: 4
 
 Join is the App (Android and Ios) that connects commercial activities with those who walk in the area!
 
-<a href="https://appjoin.it/" target="_blank">
+
+  <a href="https://appjoin.it/" target="_blank">
 <div style={{textAlign: 'center'}}>
 <a href="https://appjoin.it/" target="_blank">https://appjoin.it/</a>
-  <img src="/img/join.jpg" />
+  <br></br>
+  <img src="/MyPortfolio/img/join.jpg" />
 </div>
 </a>

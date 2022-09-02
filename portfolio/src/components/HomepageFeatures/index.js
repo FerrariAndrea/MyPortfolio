@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '',  
-    img: 'img/github.png',
+    img: '/MyPortfolio/img/github.png',
     url:"https://github.com/FerrariAndrea",
     description: (
      <a href="https://github.com/FerrariAndrea" target="_blank">My Github profile</a>
@@ -13,11 +13,11 @@ const FeatureList = [
   },
   {
     title: 'Master\'s Degree in Computer Engineering at the University of Bologna',
-    img: 'img/univerity.png',
+    img: '/MyPortfolio/img/univerity.png',
   },
   { 
     title: '',
-    img: 'img/linkedin.png',
+    img: '/MyPortfolio/img/linkedin.png',
     url:"https://www.linkedin.com/in/andrea-ferrari-11a29815a/",
     description: (
       <a href="https://www.linkedin.com/in/andrea-ferrari-11a29815a/"  target="_blank">My Linkedin profile</a>

@@ -14,5 +14,5 @@ Main feature: if the requests exceed the number of places available there is the
 
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/smovent.jpeg" />
+  <img src="/MyPortfolio/img/smovent.jpeg" />
 </div>

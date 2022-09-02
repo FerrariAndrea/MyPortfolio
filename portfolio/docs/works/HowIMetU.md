@@ -11,9 +11,9 @@ sidebar_position: 6
 Website to meet new people with the same passions, organizing groups of strangers who want to do the same activity. 
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/HowIMetU.png" />
+  <img src="/MyPortfolio/img/HowIMetU.png" />
 </div>
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/HowIMetU2.png" />
+  <img src="/MyPortfolio/img/HowIMetU2.png" />
 </div>
