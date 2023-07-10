@@ -81,7 +81,7 @@ const config = {
           {
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Portfolio, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Portfolio, Inc. Built with Docusaurus. Last update: ${new Date().toLocaleDateString()}`,
       },
       prism: {
         theme: lightCodeTheme,
