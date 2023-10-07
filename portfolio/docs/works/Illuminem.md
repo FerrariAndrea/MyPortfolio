@@ -9,7 +9,7 @@ sidebar_position: 1
 </div>
 
 Illuminem is a Startup that provides you with the most effective, updated, and comprehensive access to Sustainability & Energy Information.
-After an initial period as a member of the IT Team, I became the Head of Tech.
+After an initial period as a member of the IT Team, I became Head of Technology.
 
 Activities:
 - IT team coordinator and manager

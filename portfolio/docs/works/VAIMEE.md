@@ -5,7 +5,7 @@ sidebar_position: 4
 # VAIMEE
 
 <div >
-<p style={{textAlign: 'right'}}>Date: 2020 - ♾️</p>
+<p style={{textAlign: 'right'}}>Date: 2020 - 2022</p>
 </div>
 
 VAIMEE is a SRL that works R&D in order to supply Data-driven composable applications, for everyone, and for any kind of data.
